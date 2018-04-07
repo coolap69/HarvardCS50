@@ -8,3 +8,8 @@ int main(void)
     printf("hello, %i\n", i);
 
 }
+
+//terminal type
+// make int
+// type ./int
+// get the number you want
