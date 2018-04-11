@@ -11,7 +11,7 @@ int main(void)
     int y = get_int("y: ");
 
     // Compare x and y
-    if(x <y)
+    if(x < y)
     {
         printf("x is less than y\n");
     }
